@@ -1,15 +1,15 @@
-# 👋 Hi, I'm Suhita Anubha
+# Hi, I'm Suhita Anubha
 
-🎓 I'm a junior at **Indiana University Bloomington**, pursuing a **B.S. in Computer Science** with a specialization in **Artificial Intelligence**.  
-📌 GPA: 3.98 | Global Engagement & Luddy Direct Admit Scholar
+I'm a junior at **Indiana University Bloomington**, pursuing a **B.S. in Computer Science** with a specialization in **Artificial Intelligence**.  
+GPA: 3.98 | Global Engagement & Luddy Direct Admit Scholar
 
-## 💻 Skills
+## Skills
 - **Languages:** C++, Python, Java, C, R, Racket, SQL 
 - **Tools & Databases:** VS Code, IntelliJ, R Studio, DrRacket, Git, PostgreSQL
 
 
-## 🚀 Projects
-### ❤️ Predicting Heart Disease Using Decision Trees and Ensemble Learning
+## Projects
+### Predicting Heart Disease Using Decision Trees and Ensemble Learning
 - Developed a binary classification model to detect heart disease using the **Cleveland Heart Disease dataset**.
 - Implemented and optimized a **Decision Tree Classifier**, then improved performance with a custom **3-tree ensemble** using majority voting.
 - Performed **data preprocessing**, including missing value imputation and feature scaling (`SimpleImputer`, `StandardScaler`).
@@ -20,7 +20,7 @@
 
 
 
-### 🧠 Alzheimer’s Disease Classification Using K-Nearest Neighbors
+### Alzheimer’s Disease Classification Using K-Nearest Neighbors
 - Built a classification model to predict the likelihood of Alzheimer’s Disease using **K-Nearest Neighbors (KNN)**.
 - Preprocessed a dataset of over 2,000 medical records with 35 features; performed **feature selection using ANOVA F-scores** and **standardized** inputs for distance-based learning.
 - Tuned the hyperparameter `k` using **4-fold cross-validation**, increasing accuracy from **54% to 84%**.
@@ -30,8 +30,8 @@
 
 
 
-## 📫 Get in Touch
-- 📧 Email: sanubha@iu.edu  
+## Get in Touch
+- Email: sanubha@iu.edu  
 ---
 
 Thanks for visiting my profile!
